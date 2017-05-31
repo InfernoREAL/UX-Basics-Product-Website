@@ -1,0 +1,26 @@
+/*///////////////////////////////*/
+/* FONT STYLE                    */
+/*///////////////////////////////*/
+
+h1 {
+    font-weight: 400;
+    font-size: 36px;
+}
+
+h5 {
+	position: fixed;
+	right: 10%;
+	margin-top: 34px;
+	font-weight: 300;
+	font-size: 16px;
+	vertical-align: middle;
+	text-align: right;
+	color: #FAFAFA;
+	letter-spacing: 0.5px;
+}
+
+p {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 145%;
+}
